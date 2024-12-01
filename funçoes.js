@@ -1,7 +1,7 @@
 function sim() {
     alert("Você aceitou mandar fototeta! :)");
     // redireciona para um URL após clicar no SIM
-    location.href = "https://www.youtube.com/watch?v=oOf6KJW329Q";
+    location.href = "https://youtu.be/skVg5FlVKS0?si=PVpJal6tJQ1SYYrp";
 }
 
 function desvia(btn) {
